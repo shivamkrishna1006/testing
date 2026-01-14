@@ -10,7 +10,7 @@ export default function Home() {
           </h1>
           <p className="max-w-2xl text-lg text-zinc-600 dark:text-zinc-400">
             A modern, fast, and scalable web application built with Next.js and
-            Tailwind CSS.
+            Tailwind CSS and shadcnUI
           </p>
         </header>
 
@@ -20,7 +20,7 @@ export default function Home() {
               Fast
             </h3>
             <p className="text-zinc-600 dark:text-zinc-400">
-              Optimized for performance and smooth user experience.
+              Optimized for performance and smooth user experience. and flow
             </p>
           </div>
 
@@ -38,7 +38,7 @@ export default function Home() {
               Customizable
             </h3>
             <p className="text-zinc-600 dark:text-zinc-400">
-              Easy to modify and adapt for any use case.
+              Easy to modify
             </p>
           </div>
         </section>
