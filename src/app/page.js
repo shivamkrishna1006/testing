@@ -5,7 +5,7 @@ export default function Home() {
     <div className="flex min-h-screen items-center justify-center bg-zinc-50 dark:bg-black">
       <main className="mx-auto flex w-full max-w-5xl flex-col items-center gap-16 px-6 py-24 text-center sm:text-left">
         <header className="flex flex-col items-center gap-6">
-          <h1 className="text-4xl font-bold tracking-tight text-black dark:text-white sm:text-5xl">
+          <h1 className="text-4xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-5xl">
             Welcome to Shivam Krishan's Portfolio
           </h1>
           <p className="max-w-2xl text-lg text-zinc-600 dark:text-zinc-400">
